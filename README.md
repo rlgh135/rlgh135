@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 
 * 📝 **Tech Blog:** [[Velog](https://velog.io/@rlgh135/posts)]
 * 📧 **Email:** [rlgh135@gmail.com]
+* 📝 **Portfolio:** [[Link](https://rlgh135.github.io/)]
 
 <br>
 
